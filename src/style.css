@@ -12,6 +12,6 @@
   margin-bottom: 20px;
 }
 
-input[name="age"] {
+.age {
   width: 65px;
 }
